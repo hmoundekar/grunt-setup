@@ -1,0 +1,36 @@
+{
+  "name": "This is Grunt Setup to start your web project",
+  "homepage": "https://github.com/hmoundekar/ng-rep",
+  "description": "Get a quick start for Your Web Projects",
+  "main": "",
+  "authors": [
+    "Harshal"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "angularjs#^1.5.8",
+    "modernizr": "^3.3.1"
+  },
+  "keywords": [
+    "Start",
+    "your",
+    "web",
+    "projects",
+    "with",
+    "all",
+    "the",
+    "basic",
+    "required",
+    "developer",
+    "dependencies"
+  ]
+}

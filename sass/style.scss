@@ -1,0 +1,10 @@
+@import 'app.scss';
+@mixin hmain($fontsize,$fontweight,$fontcolor){
+	font-size: $fontsize;
+	font-weight:$fontweight;
+	color:$fontcolor;
+}
+h1{
+	@include hmain(2em, bold, blue);
+	text-align:justify;
+}

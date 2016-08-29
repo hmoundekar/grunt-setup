@@ -1,0 +1,40 @@
+{
+  "name": "grunt-setup",
+  "version": "1.0.0",
+  "description": "HTml5 tools",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmoundekar/ng-rep.git"
+  },
+  "author": "Harshal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmoundekar/ng-rep/issues"
+  },
+  "homepage": "https://github.com/hmoundekar/ng-rep#readme",
+  "bin": {
+    "grunt-setup": "ng-rep.js"
+  },
+  "keywords": [
+    "start",
+    "your",
+    "web",
+    "project",
+    "with",
+    "grunt"
+  ]
+}
